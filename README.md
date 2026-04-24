@@ -35,7 +35,7 @@ pip install httpx pyyaml qrcode
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/yourname/mihoyo-qrcode-login.git
+git clone https://github.com/jiarui666/mihoyo_qr_login.git
 cd mihoyo-qrcode-login
 ```
 
